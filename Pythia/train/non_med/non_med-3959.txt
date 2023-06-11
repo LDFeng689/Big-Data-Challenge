@@ -1,0 +1,1 @@
+498	An Integer of 0 if this isn't selected or an Integer of 1 if this is selected.

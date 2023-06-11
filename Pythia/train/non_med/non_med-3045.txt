@@ -1,0 +1,1 @@
+645	A sample SQL session follows, to create the above example.

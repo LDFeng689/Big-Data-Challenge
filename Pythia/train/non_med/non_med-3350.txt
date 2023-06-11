@@ -1,0 +1,1 @@
+416	And most inmportaly, is their a better way to do this from with in C?

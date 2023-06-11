@@ -1,0 +1,1 @@
+164	A gain applied perfectly to a signal is also a distortion (since the output is different from the input), but will not necessarily add new frequency components (and therefore it is linear distortion, not non-linear distortion).

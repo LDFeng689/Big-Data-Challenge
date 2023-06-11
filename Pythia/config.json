@@ -1,0 +1,15 @@
+{
+    "keys": [
+        {
+            "EL_key":  "<insert elevenlabs API key here>",
+
+            "OAI_key": "<insert OpenAI API key here>",
+
+            "mongodb_url": "<insert link to mongodb url here>"
+
+        }
+    ]
+
+}
+
+

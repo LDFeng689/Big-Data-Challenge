@@ -1,0 +1,1 @@
+6689	That is, a lab that starts on the half hour (say 2:30) will finish at 20 after the next hour (3:20) to allow time for the transition between labs.

@@ -1,0 +1,1 @@
+2289	Generally the idle advance was way below this, as the only way to prevent pinging at 1500 - 2500rpm even on 98 octane.

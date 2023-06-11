@@ -1,0 +1,1 @@
+8357	This course is designed to provide and understanding of computer interfacing for data acquisition and control.

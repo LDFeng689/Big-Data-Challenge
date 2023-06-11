@@ -1,0 +1,1 @@
+594	A prototype of the O framework has been implemented for the concurrent object-oriented programming language Ada 95. It has been realized in form of a library based on standard Ada only.

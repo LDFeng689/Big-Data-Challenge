@@ -1,0 +1,1 @@
+1652	DisableReflectionKeyDisables registry reflection for 32-bit processes running on a 64-bit operating system.

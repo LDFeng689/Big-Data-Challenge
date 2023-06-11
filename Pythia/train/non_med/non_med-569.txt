@@ -1,0 +1,1 @@
+6380	Some readers will work better on certain operating systems.

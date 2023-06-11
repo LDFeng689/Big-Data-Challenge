@@ -1,0 +1,1 @@
+7092	The essence of duck typing is that you can be completely compatible with X without anywhere near X's inheritance tree.

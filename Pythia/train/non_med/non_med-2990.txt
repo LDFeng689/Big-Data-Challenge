@@ -1,0 +1,1 @@
+1518	Create an inventory which can be used for permanent, temporary, full-time, part-time appointments, or casual employment.

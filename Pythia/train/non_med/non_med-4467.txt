@@ -1,0 +1,1 @@
+7962	The signal-chaining facility also allows an application to link and load a shared library libc/libthread/libpthread.

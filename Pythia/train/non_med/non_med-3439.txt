@@ -1,0 +1,1 @@
+3642	In the new experimental release we’ve added support to the Movie File Out TOP to save multi-channel EXR images that can store both the color and depth images from the Kinect (Azure or earlier models) in the same file.

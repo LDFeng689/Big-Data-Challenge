@@ -1,0 +1,1 @@
+8570	This solved nearly all my spam problems near instantly -- all the spammers try to put urls into the url box which they assume will get turned into links, but with the http:// and https:// prefixes banned, they get dropped.

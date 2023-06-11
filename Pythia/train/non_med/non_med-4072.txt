@@ -1,0 +1,1 @@
+8602	This USB tuner stick ought to work on those, I think; VHF/UHF ham radio and utility/scanner frequencies, not shortwave or AM radio, the wavelengths are too long.

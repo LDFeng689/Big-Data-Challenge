@@ -1,0 +1,1 @@
+9609	Whether in-kind services are provided or not is not necessarily up to Events Central, as this depends on the service area that is providing the service.

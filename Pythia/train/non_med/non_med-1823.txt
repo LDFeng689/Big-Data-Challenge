@@ -1,0 +1,1 @@
+4779	Micro-Digital Image ShiftThe Micro-Digital Image Shift function shifts the image electrically, using the surplus pixels on the LCOS panel.

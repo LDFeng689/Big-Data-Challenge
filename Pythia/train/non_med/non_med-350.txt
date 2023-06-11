@@ -1,0 +1,1 @@
+3036	If the absolute RGB value filtering strategy is selected for use, then set all entries of that correspond to pixels that do not fall within the specified value ranges for the red, green and blue channels to false.

@@ -1,0 +1,1 @@
+9481	What I would guess is happening is the light levels of Red, Green, and Blue are very different so when I alter them en-block it is not altering them all at same point in picture.

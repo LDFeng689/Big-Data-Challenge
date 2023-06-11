@@ -1,0 +1,1 @@
+1981	Faster computation of Iterative Endpoints Fit algorithm, using extra space.

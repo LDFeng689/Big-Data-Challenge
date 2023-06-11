@@ -1,0 +1,1 @@
+4122	It sounds like your issue is you are too far from the switch, or have bad lines.

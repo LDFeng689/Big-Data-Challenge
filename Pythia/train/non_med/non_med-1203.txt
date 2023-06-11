@@ -1,0 +1,1 @@
+6996	The corresponding OPC method is IOPCEventServer::QueryEventAttributes().

@@ -1,0 +1,1 @@
+1884	Entry by completion is realized by entering the prefix and then selecting from among the candidates.

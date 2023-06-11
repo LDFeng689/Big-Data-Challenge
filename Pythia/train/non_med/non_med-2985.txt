@@ -1,0 +1,1 @@
+2972	If a teacher has taken a refund of contributions, the number of years refunded will not be used in the calculation of the disability benefit.

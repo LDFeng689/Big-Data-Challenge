@@ -1,0 +1,1 @@
+776	As well as their use in conditionals, the various constructions for comparing variables also find a use in the function, which is used to sort a list.

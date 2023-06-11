@@ -1,0 +1,1 @@
+8125	The voltage regulator is simply screwed to the heat sink so it doesn’t overheat.

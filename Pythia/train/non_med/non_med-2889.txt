@@ -1,0 +1,1 @@
+7244	The hardware aspects (switches, LANs, modems, transmission paths) are only covered at a functional level.

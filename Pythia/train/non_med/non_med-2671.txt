@@ -1,0 +1,1 @@
+8505	This operation, which creates a pseudo-object, is defined in the ORB interface.

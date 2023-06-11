@@ -1,0 +1,1 @@
+7058	The difficulty of developing location-based games and other location-aware applications may significantly hinder the prevalence of applications that explore new interaction techniques for ubiquitous computing.

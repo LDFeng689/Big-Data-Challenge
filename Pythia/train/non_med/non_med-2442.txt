@@ -1,0 +1,1 @@
+74	Actually we can use the package "maps" to give the map of each states.

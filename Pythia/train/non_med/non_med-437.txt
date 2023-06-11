@@ -1,0 +1,1 @@
+767	A subclass that provided a that based the return value from off the containment hierarchy would override this method to return true.

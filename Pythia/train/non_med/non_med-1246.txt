@@ -1,0 +1,1 @@
+8554	This routine initializes the BSP serial device descriptors and puts the devices in a quiesent state.

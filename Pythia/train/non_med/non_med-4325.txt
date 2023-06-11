@@ -1,0 +1,1 @@
+5033	Namely, it sets the turtle's linear and angular velocity to zero.

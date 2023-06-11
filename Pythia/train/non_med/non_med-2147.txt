@@ -1,0 +1,1 @@
+4441	K is the disposition rate constant determined in the absence of inhibitor, and the left-hand side of the equation is plotted against (I), yielding a linear plot with (1/Ki) as slope and unity as the intercept.

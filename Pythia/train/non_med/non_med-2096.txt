@@ -1,0 +1,1 @@
+475	And yes you can set the color for the buttons and knob to be different than the led display.

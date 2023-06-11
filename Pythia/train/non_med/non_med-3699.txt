@@ -1,0 +1,1 @@
+7999	The "string" may be omitted, in which case EXEC just reads the standard input without prompting.

@@ -1,0 +1,1 @@
+148	After seeing a few more details about the iPhone browser guidelines (including the User Agent), I though I'd grep through my access logs to see if any pages had been accessed via the iPhone.

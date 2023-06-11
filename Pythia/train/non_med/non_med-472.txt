@@ -1,0 +1,1 @@
+3124	If you let your backend handle the RAID bits and feed ZFS logical disks instead of physical ones, you can fake migration through mirroring (since you can mirror and then unmirror disks that are not part of a raidz or raidz2 pool).

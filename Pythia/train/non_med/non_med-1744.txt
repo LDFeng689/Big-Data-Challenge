@@ -1,0 +1,1 @@
+9993	Zara in this sentence is an argument of "like"; that is, "Zara" gets a theta-role assigned by "like".

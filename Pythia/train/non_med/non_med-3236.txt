@@ -1,0 +1,1 @@
+6044	Schauder bases are infinite and use convergence.

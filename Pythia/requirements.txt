@@ -1,0 +1,9 @@
+#modules requirement
+
+#matplotlib
+#tensorflow
+#elevenlabs
+#whisper_mic
+#ffmpeg
+#pymongo
+#openai

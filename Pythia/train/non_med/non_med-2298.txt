@@ -1,0 +1,1 @@
+1408	Common examples are for a carriage return and for a bell.

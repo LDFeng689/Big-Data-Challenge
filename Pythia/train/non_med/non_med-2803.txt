@@ -1,0 +1,1 @@
+593	A program for dumping the contents of files in readable formats.

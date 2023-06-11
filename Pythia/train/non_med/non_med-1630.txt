@@ -1,0 +1,1 @@
+1623	Determines if the contact selection is randomized.

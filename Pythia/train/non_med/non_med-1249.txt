@@ -1,0 +1,1 @@
+8017	The sum of the ages of their members are all the same, the sum of the squares of the ages of their members are all the same, and the sum of the cubes of the ages of their members are all the same.

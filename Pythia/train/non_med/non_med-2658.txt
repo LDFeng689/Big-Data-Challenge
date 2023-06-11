@@ -1,0 +1,1 @@
+780	As well, if there are small patterns within the larger file, then matches will sometimes occur and sometimes not, leading to unpredictable behaviour.

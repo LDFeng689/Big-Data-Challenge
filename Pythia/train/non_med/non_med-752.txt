@@ -1,0 +1,1 @@
+2166	For small classical integers (typically for register sizes), we use 'Int', Haskell’s bounded-precision integers.

@@ -1,0 +1,1 @@
+127	After an error message, the user must enter <DEL> or <RETURN> before continuing.

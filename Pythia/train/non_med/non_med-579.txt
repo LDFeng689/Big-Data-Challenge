@@ -1,0 +1,1 @@
+67	Activated by window operation, ‘on’ in partial to full openings.

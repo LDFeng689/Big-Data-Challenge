@@ -1,0 +1,1 @@
+2318	Give two instances that do not appear in the examples of and show how they are classified using the smallest decision tree.

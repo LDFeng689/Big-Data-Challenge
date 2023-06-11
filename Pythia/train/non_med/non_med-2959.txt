@@ -1,0 +1,1 @@
+4699	Marchand S., "Musical pitch tracking using internal model control based frequency cancellation", Proceedings of the Conference on Decision and Control, 2003.

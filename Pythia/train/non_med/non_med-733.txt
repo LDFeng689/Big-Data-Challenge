@@ -1,0 +1,1 @@
+7191	The General Inter-ORB Protocol can be used in either manner.
