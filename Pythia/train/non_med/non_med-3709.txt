@@ -1,1 +1,0 @@
-3571	In some cases, the iteration process is a simple mathematical function; however, the most useful algorithms require additional flow-control statements including conditional and repetition statements found in programming.

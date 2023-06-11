@@ -1,1 +1,0 @@
-4861	Moving agent at the original location that is responsible for performing local moving services such as packing, performing the visual survey, preparing the necessary documentation for transportation.

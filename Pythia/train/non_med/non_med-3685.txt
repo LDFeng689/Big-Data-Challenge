@@ -1,1 +1,0 @@
-946	Beginning with version 1.1, a list of new modules in the latest version can be seen by choosing "List new modules" from the Help menu.

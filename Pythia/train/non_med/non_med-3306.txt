@@ -1,1 +1,0 @@
-4449	Kongsberg has indicated that the software assumes that the EM302 transceiver will be working with the EM302 transducers.

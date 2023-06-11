@@ -1,1 +1,0 @@
-6229	Shows the current line number (the position in the current page of the display and/or spooled output).

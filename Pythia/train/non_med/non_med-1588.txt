@@ -1,1 +1,0 @@
-4417	J. Wan, M. Zulkernine, P. Eisen, and C. Liem, "Defending Application Cache Integrity of Android Runtime," Proc. of the 13th International Conference on Information Security Practice and Experience (ISPEC), Melbourne, Australia, December 2017.

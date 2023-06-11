@@ -1,1 +1,0 @@
-5792	Programming Note: This function is provided for compatibility, but recycling is not implemented in Octave.

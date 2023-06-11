@@ -1,1 +1,0 @@
-5775	Proceed around the cones in a “zig-zag” pattern.

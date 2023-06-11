@@ -1,1 +1,0 @@
-9568	When the declaration appears outside all functions, is assumed.

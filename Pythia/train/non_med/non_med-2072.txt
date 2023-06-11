@@ -1,1 +1,0 @@
-6901	The camera can process scenes with contrasting intensity of lights and produce clear image using the built‐in WDR.

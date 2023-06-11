@@ -1,1 +1,0 @@
-2018	File with read alignments to the reference genome in SAM format.

@@ -1,1 +1,0 @@
-4978	MultiArray is a library of multi-dimensional array abstractions.

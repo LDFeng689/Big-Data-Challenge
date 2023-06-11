@@ -1,1 +1,0 @@
-9998	Zone 2 (Speaker-Level & Line-Level Output): Zone 2 allows stereo audio playback of another source connected to the receiver in another room of your home via RCA line-level output or speaker-level output.

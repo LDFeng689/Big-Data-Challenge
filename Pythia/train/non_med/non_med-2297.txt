@@ -1,1 +1,0 @@
-3680	In this talk we will try to address these issues head-on by developing novel deep generative models.

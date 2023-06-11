@@ -1,1 +1,0 @@
-3110	If you don't pre-authenticate with Kerberos, your print job will be held in the queue, waiting for you to type in your username and password via the Print Job Authentication window.

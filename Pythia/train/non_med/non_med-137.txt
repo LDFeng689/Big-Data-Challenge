@@ -1,1 +1,0 @@
-8809	Too much cutting initially will cause dusting.

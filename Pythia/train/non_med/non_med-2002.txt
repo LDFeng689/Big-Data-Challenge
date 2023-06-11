@@ -1,1 +1,0 @@
-6225	Should this payment not be received, the completed object remains the property of the Wareham Forge, and any deposit made is forfeit.

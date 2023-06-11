@@ -1,1 +1,0 @@
-5236	Of course, your program could calculate this URL in any way you want, instead of just printing a static address.

@@ -1,1 +1,0 @@
-3914	It is assumed that the questions are completed during the course of one SAS session.

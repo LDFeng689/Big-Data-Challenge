@@ -1,1 +1,0 @@
-6721	That organization level with responsibility for a major functional area of the incident, e.g., Operations, Planning, Logistics, Finance/Administration.

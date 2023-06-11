@@ -1,1 +1,0 @@
-8615	This was performed to produce a stable enough material for GPC analysis.

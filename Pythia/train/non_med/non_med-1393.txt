@@ -1,1 +1,0 @@
-7888	The search may be put in the wider context of finding all pairs of subgroups in almost simple algebraic groups over algebraically closed fields for which there are only finitely many double cosets.

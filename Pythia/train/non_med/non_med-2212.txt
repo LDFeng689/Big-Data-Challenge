@@ -1,1 +1,0 @@
-1842	E.g. for pairs that do not align in a paired fashion, Bowtie 2 attempts to find unpaired alignments for each mate.

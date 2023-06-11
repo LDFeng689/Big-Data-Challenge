@@ -1,1 +1,0 @@
-3682	In this thesis, to solve this problem we model the messages corrupted by a malicious user to bypass a chat filter as a cipher text.

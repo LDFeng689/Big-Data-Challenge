@@ -1,1 +1,0 @@
-7455	Then E is compact and hence measurable.

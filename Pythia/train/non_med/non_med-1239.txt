@@ -1,1 +1,0 @@
-3927	It is designed to show local apparent or solar time.

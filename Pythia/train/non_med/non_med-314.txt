@@ -1,1 +1,0 @@
-3100	If you can see the defect on a spectrogram, you should be able to detect it with FFT.

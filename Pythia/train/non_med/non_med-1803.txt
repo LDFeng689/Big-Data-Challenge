@@ -1,1 +1,0 @@
-6814	The alternate pnmath0 package offers the same functionality using Pthreads for environments in which the newer compilers are not available.

@@ -1,1 +1,0 @@
-9553	When "Monitor input" is disabled I can still hear the sound through my speakers but I see no activity in the VU meters until I click the "Record" button.

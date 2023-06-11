@@ -1,1 +1,0 @@
-2297	Geometrically you have a sphere, two points P and E and you want to construct an ellipse with foci P and E that is tangent to the sphere.

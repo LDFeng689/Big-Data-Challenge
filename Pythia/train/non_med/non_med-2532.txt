@@ -1,1 +1,0 @@
-8183	They are retrieved by triggering an acoustic release, which disconnects the anchor and allows the station to float to the surface for pick up.

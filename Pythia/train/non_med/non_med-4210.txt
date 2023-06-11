@@ -1,1 +1,0 @@
-8379	This equals to the length of ‘SES’ strucure if the corresponding SOD file is read.

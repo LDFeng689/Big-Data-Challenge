@@ -1,1 +1,0 @@
-4823	More than one source key per sequence is permittable.

@@ -1,1 +1,0 @@
-809	A term with high total frequency of occurrence is not very useful in retrieval irrespective of its distribution.

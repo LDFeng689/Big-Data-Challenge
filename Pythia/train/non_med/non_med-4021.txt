@@ -1,1 +1,0 @@
-1517	Create and print a customized map and directions to campus using the following as a starting point.

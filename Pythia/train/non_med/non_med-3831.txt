@@ -1,1 +1,0 @@
-2971	If a shipment is designated FOB (the seller’s location), then as soon as the shipment of goods leaves the seller’s warehouse, the seller records the sale as complete.

@@ -1,1 +1,0 @@
-5207	Now uses a TreeMap instead of a HashMap so that keys are kept in sorted order.

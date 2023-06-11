@@ -1,1 +1,0 @@
-8766	To determine molecular mechanisms that facilitate RXFP1-mediated migration in GB cells, we employed a pseudopodia assay and 2D LC-MS/MS to investigate the protein composition at cell protrusions (pseudopodia) during GB cell migration.

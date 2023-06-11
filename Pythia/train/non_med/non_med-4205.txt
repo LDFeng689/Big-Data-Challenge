@@ -1,1 +1,0 @@
-651	As a resolution we investigate the categorical properties of Tychonoff spaces with the property that every function on them with Tychonoff codomain and continuous restrictions to compact subsets is continuous.

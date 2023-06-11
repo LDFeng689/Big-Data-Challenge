@@ -1,1 +1,0 @@
-8156	The X markers, when shown, are tagged with capital letters.

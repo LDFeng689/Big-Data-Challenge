@@ -1,1 +1,0 @@
-5956	Response to any given nutrient only occurs when the soil is already low in that nutrient.

@@ -1,1 +1,0 @@
-3637	In the last tutorial, synchronizers were introduced and two of their blocks were described.

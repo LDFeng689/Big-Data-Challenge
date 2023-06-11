@@ -1,1 +1,0 @@
-6372	Some of the methods considered in this chapter only work for finite CSPs, although some are designed for infinite, even continuous, domains.

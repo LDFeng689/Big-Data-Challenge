@@ -1,1 +1,0 @@
-7385	The maximum charger current offered by Echo-Charge is limited to 15 amps.

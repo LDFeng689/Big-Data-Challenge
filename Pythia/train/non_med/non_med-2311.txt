@@ -1,1 +1,0 @@
-6951	The clock component increases the virtual time automatically when no more events are scheduled at the current time.

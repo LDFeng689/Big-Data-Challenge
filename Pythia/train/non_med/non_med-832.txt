@@ -1,1 +1,0 @@
-8853	To use vim simply type "vim filename" (without the quotes).

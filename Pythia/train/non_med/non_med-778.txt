@@ -1,1 +1,0 @@
-60	A constant value is usually encoded directly in the machine language instruction, so that it si available after the instruction is decoded, without fetching it from memory.

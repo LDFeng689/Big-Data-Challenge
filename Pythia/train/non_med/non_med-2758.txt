@@ -1,1 +1,0 @@
-8157	The XvImage extension is supported on all Blade and Image series cards.

@@ -1,1 +1,0 @@
-6394	Some XKEYBOARD extension problems have been fixed, including improvements to the MouseKeys support.

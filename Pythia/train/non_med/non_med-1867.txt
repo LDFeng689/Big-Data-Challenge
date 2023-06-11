@@ -1,1 +1,0 @@
-7799	The remote itself can control devices via infrared, and it also communicates with the Harmony Hub via a radio frequency signal.

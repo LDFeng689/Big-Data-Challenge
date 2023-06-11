@@ -1,1 +1,0 @@
-6255	Since he was a pioneering theorist in computer science, Kleene's regular expressions soon made it into searching algorithms and from there to everyday tools.

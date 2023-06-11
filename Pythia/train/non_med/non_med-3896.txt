@@ -1,1 +1,0 @@
-6816	The analysis of goal models can be done in very different ways depending on the nature of the model and the purpose of the analysis.

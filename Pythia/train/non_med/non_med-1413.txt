@@ -1,1 +1,0 @@
-7891	These are commands embedded in C source code which are evaluated by the C Preprocessor (cpp) before the program is compiled.

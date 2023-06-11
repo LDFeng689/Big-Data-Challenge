@@ -1,1 +1,0 @@
-5858	Reads array of IDL unsigned longs from offset for length elements from the input stream.
