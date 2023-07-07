@@ -241,22 +241,18 @@ def classification():
     seed = 42
 
     raw_train_ds = tf.keras.utils.text_dataset_from_directory(
-        'aclImdb/train',
+        'train',
         batch_size=batch_size,
         validation_split=0.2,
         subset='training',
         seed=seed)
 
     raw_val_ds = tf.keras.utils.text_dataset_from_directory(
-        'aclImdb/train',
+        'train',
         batch_size=batch_size,
         validation_split=0.2,
         subset='validation',
         seed=seed)
-
-    raw_test_ds = tf.keras.utils.text_dataset_from_directory(
-        'aclImdb/test',
-        batch_size=batch_size)
 
     def custom_standardization(input_data):
         lowercase = tf.strings.lower(input_data)
@@ -284,13 +280,13 @@ def classification():
 
     train_ds = raw_train_ds.map(vectorize_text)
     val_ds = raw_val_ds.map(vectorize_text)
-    test_ds = raw_test_ds.map(vectorize_text)
+   
 
     AUTOTUNE = tf.data.AUTOTUNE
 
     train_ds = train_ds.cache().prefetch(buffer_size=AUTOTUNE)
     val_ds = val_ds.cache().prefetch(buffer_size=AUTOTUNE)
-    test_ds = test_ds.cache().prefetch(buffer_size=AUTOTUNE)
+
 
     embedding_dim = 16
 
@@ -328,12 +324,12 @@ def classification():
         history_dict = history.history
         history_dict.keys()
 
-        acc = history_dict['binary_accuracy']
-        val_acc = history_dict['val_binary_accuracy']
+        accuracy = history_dict['binary_accuracy']
+        val_accuracy = history_dict['val_binary_accuracy']
         loss = history_dict['loss']
         val_loss = history_dict['val_loss']
 
-        epochs = range(1, len(acc) + 1)
+        epochs = range(1, len(accuracy) + 1)
 
         # "bo" is for "blue dot"
         plt.plot(epochs, loss, 'bo', label='Training loss')
@@ -346,8 +342,8 @@ def classification():
 
         plt.show()
 
-        plt.plot(epochs, acc, 'bo', label='Training acc')
-        plt.plot(epochs, val_acc, 'b', label='Validation acc')
+        plt.plot(epochs, accuracy, 'bo', label='Training accuracy')
+        plt.plot(epochs, val_accuracy, 'b', label='Validation accuracy')
         plt.title('Training and validation accuracy')
         plt.xlabel('Epochs')
         plt.ylabel('Accuracy')
