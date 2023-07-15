@@ -1,0 +1,16 @@
+#modules requirement
+
+pydantic==1.10.8
+aiohttp
+absl-py
+astunparse
+PyAudio
+Pillow
+matplotlib
+tensorflow
+elevenlabs
+whisper_mic
+ffmpeg
+pymongo
+openai
+speechrecognition
